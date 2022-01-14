@@ -1,19 +1,19 @@
 import java.util.Scanner;
 
 /**
- * Created by asem on 10/01/2022.
+ * Created by Ameer on 10/01/2022.
  */
 public class Managment {
     public static void main(String[] args) {
         Student [] team = new Student[3];
         /*
-        Student s1 = new Student("ahmed",1);
+        Student s1 = new Student("Gamal",1);
         team[0]=s1;
 
-        Student s2 = new Student("asem",2);
+        Student s2 = new Student("Ameer",2);
         team[1]=s2;
 
-        Student s3 = new Student("ali",3);
+        Student s3 = new Student("Ahmed",3);
         team[2]=s3;
 */
         for (int i = 0; i <team.length ; i++) {
